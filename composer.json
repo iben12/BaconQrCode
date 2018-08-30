@@ -1,5 +1,5 @@
 {
-    "name": "iben/bacon-qr-code",
+    "name": "iben/qr-code",
     "description": "BaconQrCode is a QR code generator for PHP.",
     "license" : "BSD-2-Clause",
     "homepage": "https://github.com/Bacon/BaconQrCode",
